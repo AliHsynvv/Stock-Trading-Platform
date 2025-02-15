@@ -1,4 +1,4 @@
-# Stock Management System
+# Stock Trading Platform
 
 A Spring Boot application for managing stock portfolios and transactions.
 
